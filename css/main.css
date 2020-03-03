@@ -5,7 +5,10 @@ body {
 }
 
 .arrow {
-  width: 20px;
+  width: 5px;
+  position: absolute;
+  left: 700px;
+  top: 100px;
 }
 
 .line {
@@ -15,8 +18,8 @@ body {
   height: 3px;
   /*float: right;*/
   position: absolute;
-  left: 50px;
-  top: 30px;
+  left: 100px;
+  top: 100px;
 }
 
 .point {
