@@ -4,13 +4,13 @@ body {
 }
 
 .arrow {
-  width: 120px;
+  width: 50px;
 }
 
 .line {
   margin-top: 14px;
   width: 90px;
-  background: black;
+  background: #000000;
   height: 10px;
   float: right;
 }
@@ -20,7 +20,7 @@ body {
   height: 0;
   border-top: 20px solid transparent;
   border-bottom: 20px solid transparent;
-  border-left: 30px solid black;
+  border-left: 30px solid #000000;
   float: left;
 }
 
