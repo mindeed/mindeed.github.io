@@ -10,9 +10,9 @@ body {
 .line {
   margin-top: 14px;
   width: 90px;
-  background: blue;
+  background: black;
   height: 10px;
-  float: left;
+  float: right;
 }
 
 .point {
@@ -20,8 +20,8 @@ body {
   height: 0;
   border-top: 20px solid transparent;
   border-bottom: 20px solid transparent;
-  border-left: 30px solid blue;
-  float: right;
+  border-left: 30px solid black;
+  float: left;
 }
 
 nav ul, footer ul {
@@ -42,7 +42,7 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
+    font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
