@@ -1,16 +1,16 @@
 body {
-    margin: 50px auto;
+   /* margin: 50px auto;*/
     width: 80%;
     margin-top: 50px;
 }
 
 .arrow {
-  width: 8px;
+  width: 3px;
 }
 
 .line {
   margin-top: 14px;
-  width: 5px;
+  width: 3px;
   background: #000000;
   height: 10px;
   float: right;
