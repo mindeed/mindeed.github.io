@@ -40,7 +40,7 @@ nav ul, footer ul {
 
 nav ul li, footer ul li {
     display: inline;
-    margin-left: 150px;
+    margin-right: 10px;
 }
 
 a {
