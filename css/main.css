@@ -18,8 +18,8 @@ body {
   height: 3px;
   /*float: right;*/
   position: fixed;
-  left: 300px;
-  top: 200px;
+  left: 350px;
+  top: 220px;
 }
 
 .point {
@@ -27,7 +27,7 @@ body {
   height: 0;
   border-top: 3px solid transparent;
   border-bottom: 3px solid transparent;
-  border-left: 100px solid #000000;
+  border-left: 20px solid #000000;
   float: left;
 }
 
