@@ -8,12 +8,12 @@ body {
   width: 1px;
   position: fixed;
   left: 1000px;
-  top: 200px;
+  top: 225px;
 }
 
 .line {
   margin-top: 4px;
-  width: 1000px;
+  width: 800px;
   background: #000000;
   height: 3px;
   /*float: right;*/
